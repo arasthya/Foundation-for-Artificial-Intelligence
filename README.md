@@ -35,17 +35,17 @@ Output:
 Input:
 > 1245123
 Output:
-> Amount of currency Rp 100,000: 12
-> Amount of currency Rp 50,000: 0
-> Amount of currency Rp 20,000: 2
-> Amount of currency Rp 10,000: 0
-> Amount of currency Rp 5,000: 1
-> Amount of currency Rp 2,000: 0
-> Amount of currency Rp 1,000: 0
-> Amount of currency Rp 500: 0
-> Amount of currency Rp 200: 0
-> Amount of currency Rp 100: 1
->
-> Total Paper Money: 15
-> Total Coins: 1
+> Amount of currency Rp 100,000: 12\n
+> Amount of currency Rp 50,000: 0\n
+> Amount of currency Rp 20,000: 2\n
+> Amount of currency Rp 10,000: 0\n
+> Amount of currency Rp 5,000: 1\n
+> Amount of currency Rp 2,000: 0\n
+> Amount of currency Rp 1,000: 0\n
+> Amount of currency Rp 500: 0\n
+> Amount of currency Rp 200: 0\n
+> Amount of currency Rp 100: 1\n
+>\n
+> Total Paper Money: 15\n
+> Total Coins: 1\n
 > Cannot be cashed out: 23
