@@ -25,14 +25,12 @@ Input:
 
 Output:
 > Maximum Saving is 1000000000
-
   
 Input:
 > -100
 
 Output:
 > Please input the correct number
-
   
 Input:
 > 1245123
@@ -52,3 +50,15 @@ Output:
 > Total Paper Money: 15  
 > Total Coins: 1  
 > Cannot be cashed out: 23  
+
+
+# Case 2: Analytics and Data Visualization
+**Background**
+HR professionals generally lag behind with respect to analytics and data visualization competency. Thus,
+Dr. Carla Patalano set out to create their own HR-related dataset, which is used in one of the graduate
+MSHRM courses called HR Metrics and Analytics, at New England College of Business. He created this
+data set. We will use the data set to analyze the data and make some prediction models.
+
+**Dataset**
+https://raw.githubusercontent.com/Rietaros/kampus_merdeka/main/HRDataset_v14.csv
+
