@@ -19,19 +19,21 @@ Here is the rule:
 3. Bank must calculate how many number of Paper Money needed and Coins needed.
 4. Banks can only disburse a maximum amount of 1 billion Rupiah.
 
-Make a python code that receives an integer number of customer savings from 0 - 1 Billions.
+Make a python code that receives an integer number of customer savings from 0 - 1 Billions.  
 Input:
 > 2000000000
 
 Output:
 > Maximum Saving is 1000000000
 
+  
 Input:
 > -100
 
 Output:
 > Please input the correct number
 
+  
 Input:
 > 1245123
 
